@@ -1,0 +1,23 @@
+﻿[
+  {
+    "name": "THREE THUMBS UP",
+    "description": "sample macro #1: send three Thumbs Up",
+    "commands": "THUMBSUP,THUMBSUP,THUMBSUP"
+  },
+  {
+    "name": "THREE THUMBS DOWN",
+    "description": "sample macro #2: send three Thumbs Down",
+    "commands": "THUMBSDOWN,THUMBSDOWN,THUMBSDOWN"
+  },
+  {
+    "name": "ENTER PIN",
+    "description": "sample macro #3: enter parental controls PIN",
+    "commands": "NUM1,NUM0,NUM1,NUM0"
+  },
+  {
+    "name": "MY SHOWS END",
+    "description": "sample macro #4: go to to end of My Shows",
+    "commands": "NOWPLAYING,ADVANCE"
+  }
+]
+
